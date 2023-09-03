@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, let me be your guide 👋
 
 <!--
 **Tiago-o-Oliveira/Tiago-o-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Noice
+## Quick Resume
+- 🔭 I’m currently working on Neromorphic Neural Networks;
+- 🌱 I’m currently learning Python3 (im late for the party?);
+- 👯 I’m looking to collaborate on anything, from embeddeed software to digital cicuit description.
+- 🤔 I’m looking for help with any projects i have
+- 📫 How to reach me: Linkedin
+## Personal Projects
+
