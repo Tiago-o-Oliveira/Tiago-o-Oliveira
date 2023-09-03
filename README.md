@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | Languages  | Projects | Status |
 | ------------- | ------------- | ------------- |
 | [Verilog](https://pt.wikipedia.org/wiki/Verilog)  | [PWM Modulator](https://github.com/Tiago-o-Oliveira/PWM-Modulation-Verilog) | Stable  |
-| [Verilog](https://pt.wikipedia.org/wiki/Verilog)  | [Mips CPU]()  | WIP  |
+| [Verilog](https://pt.wikipedia.org/wiki/Verilog)  | [Mips CPU](https://github.com/Tiago-o-Oliveira/Mips-CPU-Verilog)  | WIP  |
 
 
 
