@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Quick Resume
-- 🔭 I’m currently working on Neromorphic Neural Networks;
-- 🌱 I’m currently learning Python3 (im late for the party?);
-- 👯 I’m looking to collaborate on anything, from embeddeed software to digital cicuit description.
-- 🤔 I’m looking for help with any projects i have
-- 📫 How to reach me: Linkedin
+- 🔋Future Electronics Engineer;
+- 💻 Hardware and Firmware Developer;
+- 🔭 Passionate about photography and astronomy 📷;
+- 🇧🇷 Made in Brazil;
+- 🔬 Undergraduate Researcher at ELM an Digital Circuits.
+
 ## Personal Projects
 
 
